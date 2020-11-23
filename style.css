@@ -1,0 +1,93 @@
+.btn-primary {
+    background-color: #67b54b;
+    border: 0px;
+    border-radius: 5px;
+}
+
+
+* {
+    text-align: center;
+    color: #46484c;
+}
+
+.btn-secondary {
+    background-color: #025157;
+    padding: 5px;
+}
+
+h3 {
+    color: #025157;
+}
+.home-intro-title {
+    font-size: 68px;
+    text-align: left;
+    letter-spacing: -3px;
+    color: #025157;
+    max-width: 560px;
+    margin-bottom: 24px;
+    font-family: 'Alice', Arial, sans-serif;
+    font-weight: 400!important;
+    line-height: 63px;
+}
+
+.btn-secondary:hover {
+    background-color: #67b54b;
+}
+
+
+.card-group img {
+    width: 100%;
+    transition: all .5 ease-in-out;
+    
+}
+
+#oars {
+    height: 100%;
+}
+
+.nav-link {
+    color: #025157;
+
+}
+
+.navbar-collapse a {
+    margin: 10px;
+}
+
+.card-group img:hover {
+    transform: scale(1.03)
+}
+
+.feature-img {
+    overflow: hidden;
+}
+
+section {
+    margin: 3rem;
+}
+
+.logos {
+    display: block;
+    text-align: center;
+}
+
+.logos img {
+    display: inline-block;
+    margin: 20px;
+}
+
+h2 {
+    color: #025157;
+    font-size: 55px;
+    letter-spacing: -3px;
+    font-family: 'Alice', Arial, sans-serif;
+
+
+}
+
+@media(min-width: 1000px) {
+    #registro {
+        display: none;        
+    }
+
+}
